@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">hack nelson</string>
+    <string name="facebook_app_id">323245711567102</string>
+    <string name="fb_login_protocol_scheme">fb323245711567102</string>
+
+    <string-array name="Competitions_Joined">
+        <item>Shop Nelson and Win</item>
+        <item>Spot the former All Blacks</item>
+        <item>Where\'s Mama?</item>
+    </string-array>
+
+    <string-array name="Competitions_Not_Joined">
+        <item>FruitBasket</item>
+        <item>HackNelson</item>
+    </string-array>
+
+    <string-array name="Events">
+        <item>Feast for the Senses</item>
+        <item>Mother\'s Day Event</item>
+    </string-array>
+
+</resources>
